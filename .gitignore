@@ -1,0 +1,9 @@
+build/
+cmake-build-*/
+.vs/
+out/
+*.user
+*.suo
+.DS_Store
+*.aaxplugin
+*.vst3
